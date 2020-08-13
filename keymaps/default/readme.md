@@ -1,0 +1,3 @@
+# The default keymap for halmak_split
+
+The layout is based on halmak (originally designed by Nikolay Nemshilov) although a few adjustments have been made. I have swapped the positions of B and D. As the keyboard was originally designed for a staggered layout the position of the G on an ortholinear keyboard was non-optimal so I moved the G to above the A, the Q one key to the left, and put the semi-colon where the G was. 
