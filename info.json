@@ -1,9 +1,15 @@
 {
-    "keyboard_name": "tranquility", 
-    "url": "", 
-    "maintainer": "cyanophage", 
-    "width": 12, 
-    "height": 5, 
+    "keyboard_name": "tranquility",
+    "url": "",
+    "manufacturer": "cyanophage",
+    "maintainer": "cyanophage",
+    "width": 12,
+    "height": 5,
+    "usb": {
+        "vid": "0xC1ED",
+        "pid": "0x23B0",
+        "device_version": "1.0.0"
+    },
     "layouts": {
         "LAYOUT": {
             "layout": [
